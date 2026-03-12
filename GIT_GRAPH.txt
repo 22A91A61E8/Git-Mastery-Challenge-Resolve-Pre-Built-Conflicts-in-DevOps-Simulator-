@@ -1,0 +1,14 @@
+* 99d37f8 Add CHANGELOG
+* a60f47f Add GIT_JOURNEY documentation
+*   4637c74 Resolved conflicts from conflict-simulator branch
+|\  
+* | 0312c6f updating main
+* | fadfd24 Revise README for DevOps Simulator project
+| | * e5750b5 Add Git graph
+| | * b691488 Add CHANGELOG
+| |/  
+| * d3dd9b2 updating conflict-simulator
+|/  
+| * 02011a5 updating dev
+|/  
+* ae630eb Initial commit
